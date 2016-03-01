@@ -1,9 +1,7 @@
 OpenSSL-Backport
 ================
 
-OpenSSL Backport 1.0.1c for Squeeze with GOST!<br/>
-From original 10 May 2012 to 20 Sep 2013.<br/>
-Welcome Back to the Future!<br/>
+OpenSSL Backport 1.0.1k for Squeeze<br/>
 <br/>
 Only Build:<br/>
 $ dpkg-buildpackage<br/>
@@ -11,12 +9,9 @@ $ dpkg-buildpackage<br/>
 Just Install:<br/>
 $ dpkg -i *.deb<br/>
 <br/>
-If you want to use GOST, edit openssl config file in /etc/ssl/openssl.cnf,<br/>
-uncomment fisrt line and last section with GOST<br/>
-<br/>
 Test and list it!<br/>
 $ openssl version<br/>
-OpenSSL 1.0.1c 10 May 2012<br/>
+OpenSSL 1.0.1k 8 Jan 2015<br/>
 <br/>
 $ openssl enc help<br/>
 Cipher Types<br/>
