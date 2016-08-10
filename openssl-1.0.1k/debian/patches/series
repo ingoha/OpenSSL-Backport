@@ -18,6 +18,7 @@ block_digicert_malaysia.patch
 #padlock_conf.patch
 defaults.patch
 openssl_fix_for_x32.patch
+openssl-1.0.1e-update-test-certs.patch
 ppc64el.patch
 0006-Fix-reachable-assert-in-SSLv2-servers.patch
 0005-PKCS-7-avoid-NULL-pointer-dereferences-with-missing-.patch
